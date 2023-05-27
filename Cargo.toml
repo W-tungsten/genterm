@@ -7,6 +7,3 @@ edition = "2021"
 
 [dependencies]
 colored = "2.0.0"
-
-[build]
-out-dir = "/home/victor/"
