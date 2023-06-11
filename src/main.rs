@@ -1,3 +1,5 @@
+// Reforged (1)
+
 // This will fairly soon have YAML parsing for proper configuration.
 // Using this terminal prompt (at least for now) pretty much _requires_ you to have the following:
 // A Nerd Font
